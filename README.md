@@ -10,7 +10,6 @@ Electronic Health Records Storage using Blockchain Technology
 - [Doctor Module](#doctor-module)
 - [Technologies](#technologies)
 - [Requirements](#requirements)
-- [Author Info](#author-info)
 
 ## Description
 
